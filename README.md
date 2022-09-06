@@ -6,7 +6,7 @@ Simple data structure built from scratch in Java 8, It's based on a linked list 
 
 ## Table of contents
 * [Classes](#classes)
-* [Examples] (#examples)
+* [Examples](#examples)
 
 ## Classes
 The custom.collections package contains the necessary classes to implement the SortedLinkedList class
