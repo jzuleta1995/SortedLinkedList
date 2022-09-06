@@ -2,7 +2,7 @@
 SortedLinkedList class is a linked list that keeps the values sorted
 
 # Introduction
-Simple data structure built from scratch in Java 8, It's based on a linked list that keeps the values sorted every time we add a new value.
+Simple data structure built from scratch in Java 8, It's based on a linked list that keeps the values sorted every time it's added a new value.
 
 ## Table of contents
 * [Classes](#classes)
@@ -66,7 +66,7 @@ Method to retrieve the length of the Linked List
 public int size()
 ```
 * Input: void
-* Output: Returns The SortedLinkedList size
+* Output: Returns the SortedLinkedList size
 
 
 ##### Add
